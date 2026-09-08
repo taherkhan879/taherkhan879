@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm Taher Khan<br>💻 Full stack java developer: HTML CSS JAVASCRIPT <br>⌨️ Building web applications<br>☘️ Learning and growing everyday
+👋 I'm Taher Khan<br>💻 Full stack java developer: HTML CSS JAVASCRIPT <br>⌨️ Building web applications<br>☘️ Learning and growing everyday<br>MCA
 
 
 ## 🌐 Socials:
